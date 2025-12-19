@@ -8,6 +8,7 @@
 
 /* Body y contenedor */
 body {
+    background-image: url('assets/logo.jpg');
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
     background-color: var(--bg-light);
