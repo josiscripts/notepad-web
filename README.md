@@ -153,7 +153,7 @@ Página carga → localStorage.getItem()
 
 ## 👤 Autor
 
-Proyecto desarrollado como práctica de **JavaScript y desarrollo web frontend**.
+Proyecto desarrollado como práctica de **JavaScript y desarrollo web frontend** por **josiscripts**.
 
 ---
 
